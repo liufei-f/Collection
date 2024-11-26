@@ -1,15 +1,15 @@
 
 - [Open-target](#open-target)
 - [GIM tools](#gim-tools)
+- [Catagory not decided](#catagory-not-decided)
 
 
 
 # Open-target
 
-
+[Open Targets Platform](https://platform.opentargets.org/)
 
 1. [The next-generation Open Target Platform: reimagined, redesigned, rebuilt](https://academic.oup.com/nar/article/51/D1/D1353/6833237)
-
 2. [Network expansion of genetic associations defines a pleiotropy map of human cell biology](https://www.nature.com/articles/s41588-023-01327-9)
 3. [An open approach to sysematically prioritize causal variants and genes at all published human GWAS trait-association loci](https://www.nature.com/articles/s41588-021-00945-5)
 
@@ -35,3 +35,7 @@
 
 
 
+# Catagory not decided
+
+1. [Cell-type-specific and disease-associated expression quantitative trait loci in the human lung](https://www.nature.com/articles/s41588-024-01702-0)
+2. 
