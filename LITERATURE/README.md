@@ -1,6 +1,6 @@
-[TOC]
 
-
+- [Open-target](#open-target)
+- [GIM tools](#gim-tools)
 
 
 
@@ -20,6 +20,18 @@
 # GIM tools
 
 1. [S-PrediXcan](https://www.nature.com/articles/s41467-018-03621-1)
+2. [PrediXcan](https://www.nature.com/articles/ng.3367)
+3. [FINEMAP](https://academic.oup.com/bioinformatics/article/32/10/1493/1743040)
+4. [coloc](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004383)
+5. [FUSION](https://www.nature.com/articles/ng.3506)
+6. [eCAVIAR](http://dx.doi.org/10.1016/j.ajhg.2016.10.003)
+7. [Intact](https://doi.org/10.1016/j.ajhg.2022.12.002)
+8. [SUSIE](https://doi.org/10.1371/journal.pgen.1009440)
+9. [fastENLOC](https://doi.org/10.1371/journal.pgen.1006646)
+10. [PTWAS](https://doi.org/10.1371/journal.pgen.1006646)
+11. [SMR](https://www.nature.com/articles/ng.3538)
+12. [Mendelian randomization: genetic anchors for causal inference in epidemiological studies](https://academic.oup.com/hmg/article/23/R1/R89/2900899)
+13. 
 
-2. [FINEMAP](https://academic.oup.com/bioinformatics/article/32/10/1493/1743040)
-3. 
+
+
