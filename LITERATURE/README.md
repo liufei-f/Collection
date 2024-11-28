@@ -1,7 +1,13 @@
 
+- [LLM](#llm)
 - [Open-target](#open-target)
 - [GIM tools](#gim-tools)
 - [Catagory not decided](#catagory-not-decided)
+
+
+# LLM
+
+1. [KAG: Boosting LLMs in Professional Domains via knowledge Augmented Generation](https://arxiv.org/abs/2409.13731)
 
 
 
