@@ -15,9 +15,9 @@
 
 [Open Targets Platform](https://platform.opentargets.org/)
 
-1. [The next-generation Open Target Platform: reimagined, redesigned, rebuilt](https://academic.oup.com/nar/article/51/D1/D1353/6833237)
+1. ~~[The next-generation Open Target Platform: reimagined, redesigned, rebuilt](https://academic.oup.com/nar/article/51/D1/D1353/6833237)~~
 2. [Network expansion of genetic associations defines a pleiotropy map of human cell biology](https://www.nature.com/articles/s41588-023-01327-9)
-3. [An open approach to sysematically prioritize causal variants and genes at all published human GWAS trait-association loci](https://www.nature.com/articles/s41588-021-00945-5)
+3. ~~[An open approach to sysematically prioritize causal variants and genes at all published human GWAS trait-association loci](https://www.nature.com/articles/s41588-021-00945-5)~~
 
 
 
