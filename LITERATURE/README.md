@@ -8,7 +8,7 @@
 # LLM
 
 1. [KAG: Boosting LLMs in Professional Domains via knowledge Augmented Generation](https://arxiv.org/abs/2409.13731)
-2. [GPT4Tools: Teaching LLM to use tools via self-instruction](https://arxiv.org/abs/2305.18752)
+2. ~~[GPT4Tools: Teaching LLM to use tools via self-instruction](https://arxiv.org/abs/2305.18752)~~
 3. [LLM are semi-parametric reinforcement learning agents](https://papers.nips.cc/paper_files/paper/2023/file/f6b22ac37beb5da61efd4882082c9ecd-Paper-Conference.pdf)
 
 # Open-target

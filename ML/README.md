@@ -9,3 +9,6 @@ https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/seq2seq_v9.pdf
 https://arxiv.org/pdf/1511.06732
 https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/self_v7.pdf
 https://hackmd.io/@shaoeChen/Hy0DYXlQC
+
+https://jalammar.github.io/illustrated-transformer/
+https://www.youtube.com/watch?v=lnA9DMvHtfI
