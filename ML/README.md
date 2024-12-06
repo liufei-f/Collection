@@ -20,3 +20,10 @@ https://jalammar.github.io/how-gpt3-works-visualizations-animations/
 https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
 https://jalammar.github.io/explaining-transformers/
 https://jalammar.github.io/illustrated-transformer/
+
+
+https://library.smu.edu.sg/topics-insights/undermindai-now-available-postgraduates-faculty-and-staff
+https://katinamagazine.org/content/article/main-section/2024/undermind-ai-shows-the-power-of-successive-search
+https://www.jmir.org/2024/1/e48996
+https://www.undermind.ai/static/Undermind_whitepaper.pdf
+
