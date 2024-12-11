@@ -1,5 +1,6 @@
 
 - [LLM](#llm)
+- [Evolution](#evolution)
 - [Open-target](#open-target)
 - [GIM tools](#gim-tools)
 - [Catagory not decided](#catagory-not-decided)
@@ -10,6 +11,15 @@
 1. [KAG: Boosting LLMs in Professional Domains via knowledge Augmented Generation](https://arxiv.org/abs/2409.13731)
 2. ~~[GPT4Tools: Teaching LLM to use tools via self-instruction](https://arxiv.org/abs/2305.18752)~~
 3. [LLM are semi-parametric reinforcement learning agents](https://papers.nips.cc/paper_files/paper/2023/file/f6b22ac37beb5da61efd4882082c9ecd-Paper-Conference.pdf)
+4. [ToolChain: Efficient Action Space Navigation in LLM with A*Search](https://arxiv.org/abs/2310.13227)
+
+
+# Evolution
+
+1. [Inference and applications of ancestral recombination graphs](https://www-nature-com.libproxy1.nus.edu.sg/articles/s41576-024-00772-4#Glos2)
+2. [Genome-Wide Inference of Ancestral Rencombination graphs](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004342)
+3. [distAngsd: Fast and Accurate Inference of Genetic Distances for Next-Generation Sequencing Data](https://academic.oup.com/mbe/article/39/6/msac119/6596627)
+4. 
 
 # Open-target
 
