@@ -12,6 +12,7 @@
 2. ~~[GPT4Tools: Teaching LLM to use tools via self-instruction](https://arxiv.org/abs/2305.18752)~~
 3. [LLM are semi-parametric reinforcement learning agents](https://papers.nips.cc/paper_files/paper/2023/file/f6b22ac37beb5da61efd4882082c9ecd-Paper-Conference.pdf)
 4. [ToolChain: Efficient Action Space Navigation in LLM with A*Search](https://arxiv.org/abs/2310.13227)
+5. [Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering](https://openreview.net/pdf?id=HjwK-Tc_Bc)
 
 
 # Evolution
@@ -20,7 +21,7 @@
       1. https://blog.csdn.net/weixin_44874487/article/details/142694804
 2. [Genome-Wide Inference of Ancestral Rencombination graphs](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004342)
 3. [distAngsd: Fast and Accurate Inference of Genetic Distances for Next-Generation Sequencing Data](https://academic.oup.com/mbe/article/39/6/msac119/6596627)
-4. 
+
 
 # Open-target
 
