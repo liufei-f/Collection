@@ -1,3 +1,4 @@
 # Ignore Jupyter Notebook checkpoints
 LLM/.ipynb_checkpoints/
 BIO/.ipynb_checkpoints/
+.DS_Store
